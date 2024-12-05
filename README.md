@@ -1,0 +1,1 @@
+This example demonstrates a common TypeScript error: 'Object is possibly 'null'. This happens when a variable can be null or undefined and you try to use it without checking for null or undefined.  The solution shows how to handle this using optional chaining or nullish coalescing.
